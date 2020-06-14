@@ -1,0 +1,22 @@
+{
+  "name": "pixel-house",
+  "version": "1.0.0",
+  "description": "## palindrom `node palindrome.js`",
+  "main": "palindrome.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "cd ./simple-kanban && npm install",
+    "start": "cd ./simple-kanban && npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fikrimarzuki/pixel-house-test.git"
+  },
+  "keywords": [],
+  "author": "fikrimarzuki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fikrimarzuki/pixel-house-test/issues"
+  },
+  "homepage": "https://github.com/Fikrimarzuki/pixel-house-test#readme"
+}
